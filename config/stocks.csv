@@ -1,0 +1,4 @@
+trading_symbol,quantity,order_type,limit_price,is_active
+NSE:SBIN,10,LIMIT,550.50,True
+NSE:INFY,5,MARKET,0,True
+NSE:TATASTEEL,20,LIMIT,160.75,False
